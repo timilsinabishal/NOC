@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4d5687</color>
+    <color name="colorPrimaryDark">#1a2779</color>
+    <color name="colorAccent">#265370</color>
+    <color name="statusBarColor">#484849</color>
+    <color name="background_material_light">#e5e5e6</color>
+    <color name="windowBackground">#e5e5e6</color>
+    <color name="navigationBackground">#c9c7c7</color>
+    <color name="black">#78787b</color>
+    <color name="yellow">#f3fabc</color>
+    <color name="white">#ffffff</color>
+</resources>

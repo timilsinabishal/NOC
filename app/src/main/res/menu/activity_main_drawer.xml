@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item android:id="@+id/notice" android:icon="@android:drawable/ic_popup_reminder"
+            android:title="Notice" />
+        <item android:id="@+id/news" android:icon="@drawable/ic_menu_copy_holo_light"
+            android:title="News" />
+        <item android:id="@+id/tender" android:icon="@android:drawable/ic_menu_month"
+            android:title="Tender" />
+        <item android:id="@+id/selling_price_archive" android:icon="@drawable/ic_coins_l"
+            android:title="Selling price archive" />
+        <item android:id="@+id/profit_and_loss_details" android:icon="@drawable/ic_menu_today"
+            android:title="Profit and Lost Details" />
+        <item android:id="@+id/about" android:icon="@drawable/ic_menu_info_details"
+            android:title="About" />
+        <item android:id="@+id/feedback" android:icon="@android:drawable/ic_menu_send"
+            android:title="Feedback" />
+    </group>
+
+
+</menu>
